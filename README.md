@@ -4,12 +4,12 @@ Git_test
 ### Git_test
 #### Git_test
 ##### Git_test
-Git_test
-# Git_test
-## Git_test
-### Git_test
-#### Git_test
-##### Git_test
+2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
+look like:
+
+  * this one
+  * that one
+  * the other one
 > git pull origin main
 > 
 > git pull origin main
